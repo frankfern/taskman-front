@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/taskman-front/static/css/main.d342370e.chunk.css",
+    "main.js": "/taskman-front/static/js/main.cd840768.chunk.js",
+    "main.js.map": "/taskman-front/static/js/main.cd840768.chunk.js.map",
+    "runtime-main.js": "/taskman-front/static/js/runtime-main.085d8d9c.js",
+    "runtime-main.js.map": "/taskman-front/static/js/runtime-main.085d8d9c.js.map",
+    "static/css/2.658248ec.chunk.css": "/taskman-front/static/css/2.658248ec.chunk.css",
+    "static/js/2.ff5ef569.chunk.js": "/taskman-front/static/js/2.ff5ef569.chunk.js",
+    "static/js/2.ff5ef569.chunk.js.map": "/taskman-front/static/js/2.ff5ef569.chunk.js.map",
+    "index.html": "/taskman-front/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/taskman-front/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.d342370e.chunk.css.map": "/taskman-front/static/css/main.d342370e.chunk.css.map",
+    "static/js/2.ff5ef569.chunk.js.LICENSE.txt": "/taskman-front/static/js/2.ff5ef569.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.085d8d9c.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.ff5ef569.chunk.js",
+    "static/css/main.d342370e.chunk.css",
+    "static/js/main.cd840768.chunk.js"
+  ]
+}
